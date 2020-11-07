@@ -4,7 +4,7 @@ This is meant to be a repository where one can find datasets and information abo
 
 In addition, I plan to add some example scripts on how to train your own system. The idea of this repo came from [this](https://github.com/egorsmkv/speech-recognition-uk) similar project for Ukrainian.
 
-Feel free to contact me for anything related. If you have any addition sources, please add them yourself (PR) or send me a PM and I can add them.
+Feel free to contact me for anything related. If you have any addition sources, please add them yourself (PR) or send me an email and I can add them.
 
 ## Data
 
