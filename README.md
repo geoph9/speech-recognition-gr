@@ -1,6 +1,6 @@
 # ASR for Greek
 
-This is meant to be a repository where one can find datasets and information about Greek audio datasets. In my previous job at [Pobuca](https://www.pobuca.com/), my team was given the task to create a new speech to text engine and I noticed that it was really hard to find any open audio data for Greek. My current intention is to group the open/free sources so it will be easier for someone to find them. 
+This is meant to be a repository where one can find datasets and information about Greek audio datasets. In my previous job, my team was given the task to create a new speech to text engine and I noticed that it was really hard to find any open audio data for Greek. My current intention is to group the open/free sources so it will be easier for someone to find them. 
 
 In addition, I plan to add some example scripts on how to train your own system. The idea of this repo came from [this](https://github.com/egorsmkv/speech-recognition-uk) similar project for Ukrainian.
 
