@@ -57,6 +57,13 @@ steps/cleanup/clean_and_segment_data.sh data/train_reseg $lang_dir $tri3_path ${
 For more information about audio-book alignment (and alignment for lengthy audios, in general), I advise you to read the [librispeech paper](http://www.danielpovey.com/files/2015_icassp_librispeech.pdf).
 
 
+## Pre-trained Models
+
+| Type     | Trained-on             | Test-WER | Link                                                                      |
+|----------|------------------------|----------|---------------------------------------------------------------------------|
+| coqui-ai | Common Voice 6.1 train | 80.2%    | https://github.com/coqui-ai/STT-models/releases/tag/greek%2Fitml%2Fv0.1.1 |
+| Kaldi    | Audio Books and other  | -        | https://alphacephei.com/vosk/models                                       |
+
 ## Kaldi Model
 
 [Alphacephei]() has published a kaldi model for doing Speech Recognition for Greek. The model is not really strong but you can adjust it to your needs (adaptation). 
