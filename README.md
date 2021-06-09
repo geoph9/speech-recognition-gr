@@ -59,10 +59,13 @@ For more information about audio-book alignment (and alignment for lengthy audio
 
 ## Pre-trained Models
 
-| Type     | Trained-on             | Test-WER | Link                                                                      |
-|----------|------------------------|----------|---------------------------------------------------------------------------|
-| coqui-ai | Common Voice 6.1 train | 80.2%    | https://github.com/coqui-ai/STT-models/releases/tag/greek%2Fitml%2Fv0.1.1 |
-| Kaldi    | Audio Books and other  | -        | https://alphacephei.com/vosk/models                                       |
+| Type         | Trained-on             | Test-WER | Link                                                                      |
+|--------------|------------------------|----------|---------------------------------------------------------------------------|
+| coqui-ai     | Common Voice 6.1 train | 80.2%    | https://github.com/coqui-ai/STT-models/releases/tag/greek%2Fitml%2Fv0.1.1 |
+| Kaldi        | Audio Books and other  | -        | https://alphacephei.com/vosk/models                                       |
+| Pocketsphinx | Unknown                | -        | https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Greek/ |
+
+There is also a [`voice2json`](https://github.com/synesthesiam/voice2json) model which can be found [here](https://github.com/synesthesiam/el-gr_pocketsphinx-cmu).
 
 ## Kaldi Model
 
